@@ -1,0 +1,9 @@
+.check-effect {
+    transition: all .5s;
+    transform: rotate(360deg);
+}
+
+.uncheck-effect {
+   transition: all .5s;
+   transform: rotate(-360deg); 
+}
